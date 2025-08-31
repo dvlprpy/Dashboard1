@@ -23,6 +23,7 @@ Here is a preview of the dashboard:
 
 
 ## 📂 Project Structure
+```
 store-dashboard/
  ├── avatar.svg
  ├── bootstrap.min.css
@@ -31,7 +32,7 @@ store-dashboard/
  ├── style.css
  └── screenshots/
      └── screen.png
-
+```
 
 ## 📦 Installation & Usage
 1. Clone the repository:
